@@ -113,7 +113,7 @@ if __name__ == "__main__":
     B = "\x1b[1m"
     Z = "\x1b[0m"
 
-    t = gifos.Terminal(width=920, height=480, xpad=8, ypad=8)
+    t = gifos.Terminal(width=920, height=320, xpad=8, ypad=8)
 
     def type_line(row, s, prefix="", pre="", post=""):
         buf = pre + prefix
@@ -150,9 +150,6 @@ if __name__ == "__main__":
     except Exception:
         pinned = []
 
-    workshops = [clean_workshop_name(n) for n in pinned if "workshop" in n.lower()]
-    wcount = str(len(workshops)) if workshops else "?"
-
     certs = [
         ("HackTheBox CPTS", "Aug 2025"),
         ("TryHackMe Jr Penetration Tester (PT1)", "Aug 2025"),
@@ -175,29 +172,6 @@ if __name__ == "__main__":
     type_line(r, "githubctl stats --user QiaoNPC", prefix=prompt)
     r += 1
     line(r, f"{W}Followers:{Z} {followers}   {W}Stars:{Z} {stars}   {W}Commits:{Z} {commits}   {W}Rank:{Z} {rank}")
-    r += 1
-
-    type_line(r, "githubctl workshops --pinned --table", prefix=prompt)
-    r += 1
-
-    w_col1 = 2
-    w_max = 60
-    w_col2 = w_max - w_col1 - 3
-    line(r, f"{W}Workshops:{Z} {wcount}")
-    r += 1
-    line(r, f"{W}{pad('#', w_col1)} | {pad('WORKSHOP', w_col2)}")
-    r += 1
-    line(r, f"{DIM}{'-'*w_col1}-+-{'-'*w_col2}")
-    r += 1
-
-    if workshops:
-        for i, n in enumerate(workshops[:6], start=1):
-            line(r, f"{W}{pad(str(i), w_col1)} | {pad(n, w_col2)}")
-            r += 1
-    else:
-        line(r, f"{DIM}{pad('-', w_col1)} | {pad('n/a', w_col2)}")
-        r += 1
-
     r += 1
 
     type_line(r, "certctl list --verified --table", prefix=prompt)
