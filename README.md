@@ -25,6 +25,20 @@
 
 <hr/>
 
+<h2>🛡️ CVEs</h2>
+
+<table>
+  <tr><th>CVE</th><th>Title</th></tr>
+  <tr><td><a href="https://github.com/lin-snow/Ech0/security/advisories/GHSA-m983-7426-5hrj">CVE-2026-33638</a></td><td><a href="https://github.com/lin-snow/Ech0/security/advisories/GHSA-m983-7426-5hrj">Authenticated user-list exposed data via public <code>/api/allusers</code> endpoint</a></td></tr>
+  <tr><td><a href="https://github.com/ShaneIsrael/fireshare/security/advisories/GHSA-7q8r-vpq3-89m7">CVE-2026-33645</a></td><td><a href="https://github.com/ShaneIsrael/fireshare/security/advisories/GHSA-7q8r-vpq3-89m7">Path Traversal Arbitrary File Write in <code>/api/uploadChunked</code></a></td></tr>
+  <tr><td><a href="https://github.com/mrmn2/PdfDing/security/advisories/GHSA-42x7-vvj4-4cj3">CVE-2026-34376</a></td><td><a href="https://github.com/mrmn2/PdfDing/security/advisories/GHSA-42x7-vvj4-4cj3">Password-protected share bypass via direct serve endpoint</a></td></tr>
+  <tr><td><a href="https://github.com/fccview/cronmaster/security/advisories/GHSA-9whh-mffv-xvh6">CVE-2026-34072</a></td><td><a href="https://github.com/fccview/cronmaster/security/advisories/GHSA-9whh-mffv-xvh6">Middleware authentication bypass enabling unauthorized page access and server-action execution</a></td></tr>
+  <tr><td><a href="https://github.com/Erudika/scoold/security/advisories/GHSA-g5fv-xw88-vw44">CVE-2026-34832</a></td><td><a href="https://github.com/Erudika/scoold/security/advisories/GHSA-g5fv-xw88-vw44">Cross-Account Feedback Deletion (IDOR)</a></td></tr>
+  <tr><td><a href="https://github.com/man-group/dtale/security/advisories/GHSA-436g-fhfc-9g5w">CVE-2026-35052</a></td><td><a href="https://github.com/man-group/dtale/security/advisories/GHSA-436g-fhfc-9g5w">Remote Code Execution through redis/shelf storage</a></td></tr>
+</table>
+
+<hr/>
+
 <h2>🎓 Conducted Workshops</h2>
 
 <table>
