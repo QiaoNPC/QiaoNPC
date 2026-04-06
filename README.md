@@ -19,8 +19,7 @@
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QiaoNPC&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QiaoNPC&layout=compact&theme=tokyonight" height="165" />
+  <img src="./cve-showcase.gif" alt="CVE showcase gif" width="920" />
 </p>
 
 <hr/>
