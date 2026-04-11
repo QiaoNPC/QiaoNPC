@@ -138,10 +138,6 @@ if __name__ == "__main__":
             "CVE-2026-40184",
             "Unauthenticated Access to Uploaded Files in TREK",
         ),
-        (
-            "CVE-2026-40185",
-            "Missing Authorization on Immich Trip Photo Routes in TREK",
-        ),
     ]
 
     G = "\x1b[32m"

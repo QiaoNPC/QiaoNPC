@@ -38,6 +38,9 @@
   <tr><td><a href="https://github.com/monetr/monetr/security/advisories/GHSA-hqxq-hwqf-wg83">CVE-2026-39901</a></td><td><a href="https://github.com/monetr/monetr/security/advisories/GHSA-hqxq-hwqf-wg83">Protected Transactions Deletable via PUT</a></td></tr>
   <tr><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-wxx3-84fc-mrx2">CVE-2026-40184</a></td><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-wxx3-84fc-mrx2">Unauthenticated Access to Uploaded Files in TREK</a></td></tr>
   <tr><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-pcr3-6647-jh72">CVE-2026-40185</a></td><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-pcr3-6647-jh72">Missing Authorization on Immich Trip Photo Routes in TREK</a></td></tr>
+  <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-9pr4-rf97-79qh">CVE-2026-40262</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-9pr4-rf97-79qh">Stored XSS via Unrestricted Asset Upload</a></td></tr>
+  <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-w6m9-39cv-2fwp">CVE-2026-40263</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-w6m9-39cv-2fwp">Information Disclosure: Username Enumeration via Login Endpoint Timing Side-Channel</a></td></tr>
+  <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-p5w6-75f9-cc2p">CVE-2026-40265</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-p5w6-75f9-cc2p">Broken Access Control on Asset Download</a></td></tr>
 </table>
 
 <hr/>
