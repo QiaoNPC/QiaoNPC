@@ -126,6 +126,22 @@ if __name__ == "__main__":
             "CVE-2026-35052",
             "Remote Code Execution through redis/shelf storage",
         ),
+        (
+            "CVE-2026-39355",
+            "Missing Authorization in TeamController::transferOwnership() Allows Any Authenticated User to Hijack Any Team (Broken Access Control)",
+        ),
+        (
+            "CVE-2026-39901",
+            "Protected Transactions Deletable via PUT",
+        ),
+        (
+            "CVE-2026-40184",
+            "Unauthenticated Access to Uploaded Files in TREK",
+        ),
+        (
+            "CVE-2026-40185",
+            "Missing Authorization on Immich Trip Photo Routes in TREK",
+        ),
     ]
 
     G = "\x1b[32m"

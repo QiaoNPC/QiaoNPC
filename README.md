@@ -34,6 +34,10 @@
   <tr><td><a href="https://github.com/fccview/cronmaster/security/advisories/GHSA-9whh-mffv-xvh6">CVE-2026-34072</a></td><td><a href="https://github.com/fccview/cronmaster/security/advisories/GHSA-9whh-mffv-xvh6">Middleware authentication bypass enabling unauthorized page access and server-action execution</a></td></tr>
   <tr><td><a href="https://github.com/Erudika/scoold/security/advisories/GHSA-g5fv-xw88-vw44">CVE-2026-34832</a></td><td><a href="https://github.com/Erudika/scoold/security/advisories/GHSA-g5fv-xw88-vw44">Cross-Account Feedback Deletion (IDOR)</a></td></tr>
   <tr><td><a href="https://github.com/man-group/dtale/security/advisories/GHSA-436g-fhfc-9g5w">CVE-2026-35052</a></td><td><a href="https://github.com/man-group/dtale/security/advisories/GHSA-436g-fhfc-9g5w">Remote Code Execution through redis/shelf storage</a></td></tr>
+  <tr><td><a href="https://github.com/MGeurts/genealogy/security/advisories/GHSA-2rq7-jqm7-w8x4">CVE-2026-39355</a></td><td><a href="https://github.com/MGeurts/genealogy/security/advisories/GHSA-2rq7-jqm7-w8x4">Missing Authorization in <code>TeamController::transferOwnership()</code> Allows Any Authenticated User to Hijack Any Team (Broken Access Control)</a></td></tr>
+  <tr><td><a href="https://github.com/monetr/monetr/security/advisories/GHSA-hqxq-hwqf-wg83">CVE-2026-39901</a></td><td><a href="https://github.com/monetr/monetr/security/advisories/GHSA-hqxq-hwqf-wg83">Protected Transactions Deletable via PUT</a></td></tr>
+  <tr><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-wxx3-84fc-mrx2">CVE-2026-40184</a></td><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-wxx3-84fc-mrx2">Unauthenticated Access to Uploaded Files in TREK</a></td></tr>
+  <tr><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-pcr3-6647-jh72">CVE-2026-40185</a></td><td><a href="https://github.com/mauriceboe/TREK/security/advisories/GHSA-pcr3-6647-jh72">Missing Authorization on Immich Trip Photo Routes in TREK</a></td></tr>
 </table>
 
 <hr/>
