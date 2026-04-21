@@ -138,6 +138,18 @@ if __name__ == "__main__":
             "CVE-2026-40184",
             "Unauthenticated Access to Uploaded Files in TREK",
         ),
+        (
+            "CVE-2026-41418",
+            "User Enumeration via Timing Side-Channel in Authentication Endpoint",
+        ),
+        (
+            "CVE-2026-41419",
+            "Import Path Traversal Leads to Arbitrary File Read",
+        ),
+        (
+            "CVE-2026-41478",
+            "SQL Injection via Unparameterized Sync Endpoints (maxLoadedId)",
+        ),
     ]
 
     G = "\x1b[32m"

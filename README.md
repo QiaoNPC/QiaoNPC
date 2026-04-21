@@ -41,6 +41,9 @@
   <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-9pr4-rf97-79qh">CVE-2026-40262</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-9pr4-rf97-79qh">Stored XSS via Unrestricted Asset Upload</a></td></tr>
   <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-w6m9-39cv-2fwp">CVE-2026-40263</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-w6m9-39cv-2fwp">Information Disclosure: Username Enumeration via Login Endpoint Timing Side-Channel</a></td></tr>
   <tr><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-p5w6-75f9-cc2p">CVE-2026-40265</a></td><td><a href="https://github.com/enchant97/note-mark/security/advisories/GHSA-p5w6-75f9-cc2p">Broken Access Control on Asset Download</a></td></tr>
+  <tr><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-8mj9-p99h-jhxp">CVE-2026-41418</a></td><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-8mj9-p99h-jhxp">User Enumeration via Timing Side-Channel in Authentication Endpoint</a></td></tr>
+  <tr><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-rrjq-7x8g-cmgm">CVE-2026-41419</a></td><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-rrjq-7x8g-cmgm">Import Path Traversal Leads to Arbitrary File Read</a></td></tr>
+  <tr><td><a href="https://github.com/saltcorn/saltcorn/security/advisories/GHSA-jp74-mfrx-3qvh">CVE-2026-41478</a></td><td><a href="https://github.com/saltcorn/saltcorn/security/advisories/GHSA-jp74-mfrx-3qvh">SQL Injection via Unparameterized Sync Endpoints (maxLoadedId)</a></td></tr>
 </table>
 
 <hr/>
