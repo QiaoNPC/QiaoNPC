@@ -44,6 +44,9 @@
   <tr><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-8mj9-p99h-jhxp">CVE-2026-41418</a></td><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-8mj9-p99h-jhxp">User Enumeration via Timing Side-Channel in Authentication Endpoint</a></td></tr>
   <tr><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-rrjq-7x8g-cmgm">CVE-2026-41419</a></td><td><a href="https://github.com/RARgames/4gaBoards/security/advisories/GHSA-rrjq-7x8g-cmgm">Import Path Traversal Leads to Arbitrary File Read</a></td></tr>
   <tr><td><a href="https://github.com/saltcorn/saltcorn/security/advisories/GHSA-jp74-mfrx-3qvh">CVE-2026-41478</a></td><td><a href="https://github.com/saltcorn/saltcorn/security/advisories/GHSA-jp74-mfrx-3qvh">SQL Injection via Unparameterized Sync Endpoints (maxLoadedId)</a></td></tr>
+  <tr><td><a href="https://github.com/titraio/titra/security/advisories/GHSA-4h9p-49hg-vppw">CVE-2026-42092</a></td><td><a href="https://github.com/titraio/titra/security/advisories/GHSA-4h9p-49hg-vppw">Sensitive Global Settings Exposed to Any Authenticated User via Meteor Publication</a></td></tr>
+  <tr><td><a href="https://github.com/alextselegidis/plainpad/security/advisories/GHSA-pvfv-wvpm-q6f6">CVE-2026-42562</a></td><td><a href="https://github.com/alextselegidis/plainpad/security/advisories/GHSA-pvfv-wvpm-q6f6">Privilege Escalation via Unvalidated `admin` Attribute in User Profile Update</a></td></tr>
+  <tr><td><a href="https://github.com/fccview/jotty/security/advisories/GHSA-7843-gwq8-g96f">CVE-2026-42564</a></td><td><a href="https://github.com/fccview/jotty/security/advisories/GHSA-7843-gwq8-g96f">Unauthenticated Path Traversal Arbitrary File Read in `/api/app-icons/[filename]`</a></td></tr>
 </table>
 
 <hr/>
