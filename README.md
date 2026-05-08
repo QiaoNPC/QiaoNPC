@@ -47,6 +47,9 @@
   <tr><td><a href="https://github.com/titraio/titra/security/advisories/GHSA-4h9p-49hg-vppw">CVE-2026-42092</a></td><td><a href="https://github.com/titraio/titra/security/advisories/GHSA-4h9p-49hg-vppw">Sensitive Global Settings Exposed to Any Authenticated User via Meteor Publication</a></td></tr>
   <tr><td><a href="https://github.com/alextselegidis/plainpad/security/advisories/GHSA-pvfv-wvpm-q6f6">CVE-2026-42562</a></td><td><a href="https://github.com/alextselegidis/plainpad/security/advisories/GHSA-pvfv-wvpm-q6f6">Privilege Escalation via Unvalidated `admin` Attribute in User Profile Update</a></td></tr>
   <tr><td><a href="https://github.com/fccview/jotty/security/advisories/GHSA-7843-gwq8-g96f">CVE-2026-42564</a></td><td><a href="https://github.com/fccview/jotty/security/advisories/GHSA-7843-gwq8-g96f">Unauthenticated Path Traversal Arbitrary File Read in `/api/app-icons/[filename]`</a></td></tr>
+  <tr><td><a href="https://github.com/error311/FileRise/security/advisories/GHSA-84hw-8g73-v3f8">CVE-2026-44460</a></td><td><a href="https://github.com/error311/FileRise/security/advisories/GHSA-84hw-8g73-v3f8">TOTP Bypass via Setup Endpoint Disclosing Existing Secret</a></td></tr>
+  <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">CVE-2026-44708</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">Mistune Math Plugin XSS Escape Bypass</a></td></tr>
+  <tr><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">CVE-2026-44719</a></td><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">Missing collaborator checks allowed access to database-scoped Mathesar metadata</a></td></tr>
 </table>
 
 <hr/>

@@ -150,6 +150,18 @@ if __name__ == "__main__":
             "CVE-2026-41478",
             "SQL Injection via Unparameterized Sync Endpoints (maxLoadedId)",
         ),
+        (
+            "CVE-2026-44460",
+            "TOTP Bypass via Setup Endpoint Disclosing Existing Secret",
+        ),
+        (
+            "CVE-2026-44708",
+            "Mistune Math Plugin XSS Escape Bypass",
+        ),
+        (
+            "CVE-2026-44719",
+            "Missing collaborator checks allowed access to database-scoped Mathesar metadata",
+        ),
     ]
 
     G = "\x1b[32m"
