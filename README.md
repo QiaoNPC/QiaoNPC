@@ -50,6 +50,7 @@
   <tr><td><a href="https://github.com/error311/FileRise/security/advisories/GHSA-84hw-8g73-v3f8">CVE-2026-44460</a></td><td><a href="https://github.com/error311/FileRise/security/advisories/GHSA-84hw-8g73-v3f8">TOTP Bypass via Setup Endpoint Disclosing Existing Secret</a></td></tr>
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">CVE-2026-44708</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">Mistune Math Plugin XSS Escape Bypass</a></td></tr>
   <tr><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">CVE-2026-44719</a></td><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">Missing collaborator checks allowed access to database-scoped Mathesar metadata</a></td></tr>
+  <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">CVE-2026-44897</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">Mistune Heading ID Attribute Injection XSS</a></td></tr>
 </table>
 
 <hr/>

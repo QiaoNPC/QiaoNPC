@@ -162,6 +162,10 @@ if __name__ == "__main__":
             "CVE-2026-44719",
             "Missing collaborator checks allowed access to database-scoped Mathesar metadata",
         ),
+        (
+            "CVE-2026-44897",
+            "Mistune Heading ID Attribute Injection XSS",
+        ),
     ]
 
     G = "\x1b[32m"
