@@ -51,6 +51,8 @@
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">CVE-2026-44708</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-8g87-j6q8-g93x">Mistune Math Plugin XSS Escape Bypass</a></td></tr>
   <tr><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">CVE-2026-44719</a></td><td><a href="https://github.com/mathesar-foundation/mathesar/security/advisories/GHSA-jh9v-hqw8-5cq8">Missing collaborator checks allowed access to database-scoped Mathesar metadata</a></td></tr>
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">CVE-2026-44897</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">Mistune Heading ID Attribute Injection XSS</a></td></tr>
+  <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-6269-cqxg-mhhv">CVE-2026-44898</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-6269-cqxg-mhhv">Mistune TOC Anchor Injection XSS</a></td></tr>
+  <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-ccfx-mfmx-2fx9">CVE-2026-44899</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-ccfx-mfmx-2fx9">Mistune Image Directive CSS Injection Vulnerability</a></td></tr>
 </table>
 
 <hr/>
