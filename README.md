@@ -53,6 +53,7 @@
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">CVE-2026-44897</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-v87v-83h2-53w7">Mistune Heading ID Attribute Injection XSS</a></td></tr>
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-6269-cqxg-mhhv">CVE-2026-44898</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-6269-cqxg-mhhv">Mistune TOC Anchor Injection XSS</a></td></tr>
   <tr><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-ccfx-mfmx-2fx9">CVE-2026-44899</a></td><td><a href="https://github.com/lepture/mistune/security/advisories/GHSA-ccfx-mfmx-2fx9">Mistune Image Directive CSS Injection Vulnerability</a></td></tr>
+  <tr><td><a href="https://github.com/chartbrew/chartbrew/security/advisories/GHSA-6q2j-365c-7gqf">CVE-2026-41518</a></td><td><a href="https://github.com/chartbrew/chartbrew/security/advisories/GHSA-6q2j-365c-7gqf">Stored DOM XSS via Chart Tooltip innerHTML (ChartDatasetConfig.legend)</a></td></tr>
 </table>
 
 <hr/>
