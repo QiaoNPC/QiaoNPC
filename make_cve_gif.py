@@ -103,6 +103,10 @@ def wrap_entry(cve: str, title: str, title_width: int) -> list[str]:
 if __name__ == "__main__":
     cves = [
         (
+            "CVE-2026-33543",
+            "Authentication bypass allows unauthenticated administrator creation",
+        ),
+        (
             "CVE-2026-33638",
             "Authenticated user-list exposed data via public /api/allusers endpoint",
         ),
