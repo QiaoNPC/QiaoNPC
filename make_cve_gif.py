@@ -115,12 +115,12 @@ if __name__ == "__main__":
             "Path Traversal Arbitrary File Write in /api/uploadChunked",
         ),
         (
-            "CVE-2026-34376",
-            "Password-protected share bypass via direct serve endpoint",
-        ),
-        (
             "CVE-2026-34072",
             "Middleware authentication bypass enabling unauthorized page access and server-action execution",
+        ),
+        (
+            "CVE-2026-34376",
+            "Password-protected share bypass via direct serve endpoint",
         ),
         (
             "CVE-2026-34832",
@@ -143,6 +143,22 @@ if __name__ == "__main__":
             "Unauthenticated Access to Uploaded Files in TREK",
         ),
         (
+            "CVE-2026-40185",
+            "Missing Authorization on Immich Trip Photo Routes in TREK",
+        ),
+        (
+            "CVE-2026-40262",
+            "Stored XSS via Unrestricted Asset Upload",
+        ),
+        (
+            "CVE-2026-40263",
+            "Information Disclosure: Username Enumeration via Login Endpoint Timing Side-Channel",
+        ),
+        (
+            "CVE-2026-40265",
+            "Broken Access Control on Asset Download",
+        ),
+        (
             "CVE-2026-41418",
             "User Enumeration via Timing Side-Channel in Authentication Endpoint",
         ),
@@ -153,6 +169,26 @@ if __name__ == "__main__":
         (
             "CVE-2026-41478",
             "SQL Injection via Unparameterized Sync Endpoints (maxLoadedId)",
+        ),
+        (
+            "CVE-2026-41518",
+            "Stored DOM XSS via Chart Tooltip innerHTML (ChartDatasetConfig.legend)",
+        ),
+        (
+            "CVE-2026-42092",
+            "Sensitive Global Settings Exposed to Any Authenticated User via Meteor Publication",
+        ),
+        (
+            "CVE-2026-42562",
+            "Privilege Escalation via Unvalidated admin Attribute in User Profile Update",
+        ),
+        (
+            "CVE-2026-42564",
+            "Unauthenticated Path Traversal Arbitrary File Read in /api/app-icons/[filename]",
+        ),
+        (
+            "CVE-2026-43933",
+            "Guest Attachment Access Bypass - Missing Authorization on Get Controller",
         ),
         (
             "CVE-2026-44460",
@@ -170,6 +206,22 @@ if __name__ == "__main__":
             "CVE-2026-44897",
             "Mistune Heading ID Attribute Injection XSS",
         ),
+        (
+            "CVE-2026-44898",
+            "Mistune TOC Anchor Injection XSS",
+        ),
+        (
+            "CVE-2026-44899",
+            "Mistune Image Directive CSS Injection Vulnerability",
+        ),
+        (
+            "CVE-2026-97703",
+            "Stored XSS in SelectView via Missing Server-Side Option Validation",
+        ),
+        (
+            "CVE-2026-97704",
+            "Stored XSS in PictureView figcaption via html_safe on User Caption",
+        ),
     ]
 
     G = "\x1b[32m"
@@ -180,7 +232,7 @@ if __name__ == "__main__":
     B = "\x1b[1m"
     Z = "\x1b[0m"
 
-    terminal = gifos.Terminal(width=920, height=420, xpad=8, ypad=8)
+    terminal = gifos.Terminal(width=920, height=1080, xpad=8, ypad=8)
     fps = 15
     title_width = 58
     prompt = f"{G}qiao@dllm{Z}:{C}~/cves{Z}$ "
